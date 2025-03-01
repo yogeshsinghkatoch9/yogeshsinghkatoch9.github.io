@@ -51,12 +51,12 @@ I am a results-driven professional with expertise in data analytics, financial m
   This multifaceted approach will empower nonprofits, policymakers, and community members with actionable insights to drive positive change.
 
 ## Projects
-- **[Stock Price Forecasting System](https://github.com/yogeshsinghkatoch9/stock-forecasting-system)**  
+- **[Stock Price Forecasting System](https://github.com/yogeshsinghkatoch9/Stock_Price_Forecasting_System)**  
   A comprehensive system integrating data collection, preprocessing, advanced feature engineering, and multiple predictive models (deep learning, statistical, and ensemble forecasting) to forecast stock prices via a command-line interface.
-- **[Community Impact Dashboard for NYC](https://github.com/yogeshsinghkatoch9/community-impact-dashboard)**  
-  An innovative platform designed to visualize and address social challenges in New York City, empowering nonprofits, policymakers, and residents with actionable insights from NYC Open Data.
-- **[Portfolio Website](https://github.com/yogeshsinghkatoch9/portfolio)**  
-  A personal portfolio website showcasing my professional achievements, projects, and background in an engaging and user-friendly format.
+- **[StockForecast CLI](https://github.com/yogeshsinghkatoch9/FinCast-CLI)**  
+ StockForecast CLI is a user-friendly command-line tool for stock analysis and forecasting. It combines statistical     models (ARIMA), deep learning (LSTM, GRU, Transformer-based forecasting), ensemble methods (RandomForest, XGBoost), and technical analysis libraries to offer a comprehensive solution for financial data analysis. In addition, it integrates sentiment analysis (FinBERT), model interpretability (SHAP), and interactive visualizations (Plotly).
+- **[Advanced NYC Housing Price Prediction](https://github.com/yogeshsinghkatoch9/Advanced_NYC_Housing_Price_Prediction)**  
+  Skyline Ensemble is a robust, state-of-the-art ensemble learning framework designed to predict housing prices in New York City. By integrating global stacking, clustering, and local modeling strategies, this project leverages advanced hyperparameter tuning, dimensionality reduction, and stacking techniques to achieve superior prediction performance on the NYC Housing dataset
 
 ## Skills
 - **Insurance Analytics:** Financial modeling (GUL, GVUL, IUL, VUL), risk assessment, actuarial analysis.
