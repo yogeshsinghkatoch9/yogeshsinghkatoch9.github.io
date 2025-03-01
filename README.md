@@ -1,7 +1,7 @@
 # Yogesh Singh Katoch
 
 ## About Me
-I am a results-driven professional with expertise in data analytics, financial modeling, and advanced forecasting. Currently an MBA candidate and Business Analyst in the fintech industry, I leverage my technical skills and leadership experience to drive strategic decision-making and social impact. I am also a national-level powerlifting gold medalist, with personal records of approximately 419 lbs squat, 331 lbs bench press, and 551 lbs deadlift.
+I am a results-driven professional with expertise in data analytics, financial modeling, and advanced forecasting. Currently an MBA candidate and Business Analyst in the fintech industry, I leverage my technical skills and leadership experience to drive strategic decision-making and social impact. I am also a national-level powerlifting gold medalist, with personal records of 419 lbs squat, 331 lbs bench press, and 551 lbs deadlift.
 
 ## Education
 - **Master of Business Administration** (2023 – 2025)  
