@@ -37,7 +37,6 @@ I am a results-driven professional with expertise in data analytics, financial m
 
 ### Mountaintop RIVET Fellowship
 - **Type:** Mountaintop RIVET Fellowship  
-- **Hometown:** Jammu & Kashmir, India  
 - **Fellowship Location:** New York City  
 - **Project Type:** Education  
 - **Inspiration:**  
